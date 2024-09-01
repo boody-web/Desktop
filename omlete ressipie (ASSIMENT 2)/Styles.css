@@ -1,0 +1,53 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-image: url('hh (2).jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Readex Pro", sans-serif;
+}
+
+.DODE {
+    margin: 5PX;
+    position: relative;
+    bottom: 500PX;
+    right: auto
+}
+
+h1 {
+    margin: 30PX;
+    color: #4CAF50;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 300PX;
+    height: 200PX;
+    margin-bottom: 30PX;
+    text-align: center;
+    top: auto;
+}
+
+ul {
+    list-style-type: none;
+    /*padding: 0;
+            margin: 0;*/
+    max-width: 500PX;
+    height: 300PX;
+    margin-bottom: 40PX;
+    position: relative;
+    bottom: 700PX;
+    right: 250PX;
+    font-size: 40PX;
+}
+
+    ul li {
+        margin-bottom: 30PX;
+        padding: 7px;
+        text-align: CENTER;
+        font-family: "Readex Pro", sans-serif;
+    }
